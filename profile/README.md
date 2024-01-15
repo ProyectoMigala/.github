@@ -26,6 +26,16 @@ La primera circunscripción está compuesta por los estados de Baja California, 
 
 La segunda circunscripción está compuesta por los estados de Aguascalientes, Coahuila, Guanajuato, Nuevo León, San Luis Potosí, Tamaulipas y Zacatecas.
 
+| Comisiones | Facebook | Instagram | Youtube | Activo | Ultima revisión |
+| ---- | ---- | ---- | ---- | ---- | ---- |
+| Aguascalientes |  |  |  | No | 14/01/2024 |
+| Coahuila | [fb](https://www.facebook.com/MigalaCoahuila) |  |  | Sí | 14/01/2024 |
+| Guanajuato |  | [ig](https://www.instagram.com/migala_guanajuato/) |  | Sí | 14/01/2024 |
+| Nuevo León |  |  |  | No hay respuesta | 14/01/2024 |
+| San Luis Potosí |  |  |  | No hay respuesta | 14/01/2024 |
+| Tamaulipas |  |  |  | No hay respuesta | 14/01/2024 |
+| Zacatecas |  |  |  | No hay respuesta | 14/01/2024 |
+
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1bubiOgxW-8I0gE0QvFp9RPUiF6swcaE&ll=23.044522158149643%2C-100.8871667618005&z=7)
 [Grupo](https://t.me/+B5pUR8ufYKlkNWUx)
 
