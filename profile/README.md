@@ -31,7 +31,7 @@ La segunda circunscripción está compuesta por los estados de Aguascalientes, C
 | Aguascalientes |  |  |  | No | 14/01/2024 |
 | Coahuila | [fb](https://www.facebook.com/MigalaCoahuila) |  |  | Sí | 14/01/2024 |
 | Guanajuato |  | [ig](https://www.instagram.com/migala_guanajuato/) |  | Sí | 14/01/2024 |
-| Nuevo León |  |  |  | No hay respuesta | 14/01/2024 |
+| Nuevo León |  | [ig](https://www.instagram.com/migala_nl/) |  | Sí | 15/01/2024 |
 | San Luis Potosí |  |  |  | No hay respuesta | 14/01/2024 |
 | Tamaulipas |  |  |  | No hay respuesta | 14/01/2024 |
 | Zacatecas |  |  |  | No hay respuesta | 14/01/2024 |
