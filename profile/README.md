@@ -32,9 +32,9 @@ La segunda circunscripción está compuesta por los estados de Aguascalientes, C
 | Coahuila | [fb](https://www.facebook.com/MigalaCoahuila) |  |  | Sí | JM | 14/01/2024 |
 | Guanajuato |  | [ig](https://www.instagram.com/migala_guanajuato/) |  | Sí |  | 14/01/2024 |
 | Nuevo León |  | [ig](https://www.instagram.com/migala_nl/) |  | Sí | [Donyaleee](https://t.me/donyaleee) | 15/01/2024 |
-| San Luis Potosí |  |  |  | No hay respuesta |  | 14/01/2024 |
-| Tamaulipas |  |  |  | No hay respuesta |  | 14/01/2024 |
-| Zacatecas |  |  |  | No hay respuesta |  | 14/01/2024 |
+| San Luis Potosí |  |  |  | Reactivando |  | 17/01/2024 |
+| Tamaulipas |  |  |  | No |  | 17/01/2024 |
+| Zacatecas |  |  |  | No |  | 17/01/2024 |
 
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1bubiOgxW-8I0gE0QvFp9RPUiF6swcaE&ll=23.044522158149643%2C-100.8871667618005&z=7)
 [Grupo](https://t.me/+B5pUR8ufYKlkNWUx)
@@ -45,12 +45,12 @@ La tercera circunscripción está compuesta por los estados de Campeche, Chiapas
 
 | Comisiones | Facebook | Instagram | Youtube | Activo | Representante | Ultima revisión |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| Campeche |  |  |  | No hay respuesta |  | 15/01/2024 |
+| Campeche |  |  |  | No |  | 17/01/2024 |
 | Chiapas |  |  |  | Sí |  | 15/01/2024 |
 | Oaxaca | [fb](https://www.facebook.com/profile.php?id=100082175327092&mibextid=ZbWKwL) |  |  | Sí |  | 15/01/2024 |
 | Quintana Roo | [fb](https://www.facebook.com/MigalaQuintanaRoo/) |  |  | Sí | [Alec](https://t.me/Alec_G_W) | 15/01/2024 |
-| Tabasco |  |  |  | No hay respuesta |  | 15/01/2024 |
-| Veracruz |  |  |  | No hay respuesta |  | 15/01/2024 |
+| Tabasco |  |  |  | Sí |  | 17/01/2024 |
+| Veracruz |  |  |  | No |  | 15/01/2024 |
 | Yucatán |  | [ig](https://www.instagram.com/migalayucatan/) |  | Sí | [Giovanny](https://t.me/Takagio16) | 15/01/2024 |
 
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1qHtPzCc5Hukr4sOVZw0AtM8WnDF0db8&ll=18.776377415311146%2C-94.10171403853073&z=6)
