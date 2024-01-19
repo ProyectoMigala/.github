@@ -60,6 +60,15 @@ La tercera circunscripción está compuesta por los estados de Campeche, Chiapas
 
 La cuarta circunscripción está compuesta por los estados de Ciudad de México, Guerrero, Hidalgo, Morelos, Puebla y Tlaxcala.
 
+| Comisiones | Facebook | Instagram | Youtube | Activo | Representante | Ultima revisión |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Ciudad de México | [fb](https://www.facebook.com/people/Proyecto-Migala-CDMX/100081501525185/) | [ig](https://www.instagram.com/proyectomigalacdmx/) | [yt](https://www.youtube.com/@ProyectoMigalaCDMX) | Sí | [SerchHouse](https://t.me/SerchHouse) | 19/01/2024 |
+| Guerrero |  | [ig](https://www.instagram.com/migala.guerrero) |  | Sí | [mirit23](https://t.me/mirit23) | 19/01/2024 |
+| Hidalgo |  |  |  | No |  | 19/01/2024 |
+| Morelos |  |  |  | Sí | [Brandon_Jansen](https://t.me/Brandon_Jansen)| 19/01/2024 |
+| Puebla |  |  |  | Sí | Pablitobot | 19/01/2024 |
+| Tlaxcala |  |  |  | No |  | 19/01/2024 |
+
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1UPsg19frccARzRxzTefQPyK0eszdheI&ll=18.442179417026924%2C-99.45453800000001&z=7)
 [Grupo](https://t.me/+Qssbg6uKg8s3Nzgx)
 
@@ -69,4 +78,3 @@ La quinta circunscripción está compuesta por los estados de Colima, Estado de 
 
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1PrdX1h6taRIeohJduBDDa_UWtC38x6A&ll=19.65776113414969%2C-101.6098412479208&z=7)
 [Grupo](https://t.me/+mBBU1505ANE0MWU5)
-
