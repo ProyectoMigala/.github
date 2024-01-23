@@ -19,6 +19,17 @@
 
 La primera circunscripción está compuesta por los estados de Baja California, Baja California Sur, Chihuahua, Durango, Jalisco, Nayarit, Sinaloa y Sonora.
 
+| Comisiones | Facebook | Instagram | Youtube | Tiktok | Twitter/X | Pagina Web | Activo | Representante | Ultima revisión |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Baja California |  |  |  |  |  |  | No |  | 22/01/2024 |
+| Baja California Sur |  |  |  |  |  |  | No |  | 22/01/2024 |
+| Chihuahua |  |  |  |  |  |  | No |  | 22/01/2024 |
+| Durango |  |  |  |  |  |  | No |  | 22/01/2024 |
+| Jalisco | [fb](https://www.facebook.com/MigalaJalisco) | [ig](https://www.instagram.com/migalajalisco/) | [yt](https://www.youtube.com/@proyectomigalajalisco) | [tk](https://www.tiktok.com/@migalajalisco) | [tw](https://twitter.com/migalajalisco) | [MigalaJalisco](https://linktr.ee/MigalaJalisco) | Sí | [PaulaSshun](https://t.me/PaulaSshun) y [GalloR96](https://t.me/GalloR96) | 22/01/2024 |
+| Nayarit |  |  |  |  |  |  | No |  | 22/01/2024 |
+| Sinaloa | [fb](https://www.facebook.com/proyectomigalasinaloa) | [ig](https://www.instagram.com/migalasinaloa) |  |  |  |  | Sí | [AleBarreraaa](https://t.me/AleBarreraaa) | 22/01/2024 |
+| Sonora |  |  |  |  |  |  | No |  | 22/01/2024 |
+
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1N2id_S-r1OxEfzDtAek9XfjonSEKZA0&ll=25.95804121121522%2C-108.60373767571274&z=7)
 [Grupo](https://t.me/+l7tR50yTtfFmYTEx)
 
@@ -26,7 +37,7 @@ La primera circunscripción está compuesta por los estados de Baja California, 
 
 La segunda circunscripción está compuesta por los estados de Aguascalientes, Coahuila, Guanajuato, Nuevo León, San Luis Potosí, Tamaulipas y Zacatecas.
 
-| Comisiones | Facebook | Instagram | Youtube | Activo |  | Ultima revisión |
+| Comisiones | Facebook | Instagram | Youtube | Activo | Representante | Ultima revisión |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Aguascalientes |  |  |  | No |  | 14/01/2024 |
 | Coahuila | [fb](https://www.facebook.com/MigalaCoahuila) |  |  | Sí | JM | 14/01/2024 |
@@ -64,7 +75,7 @@ La cuarta circunscripción está compuesta por los estados de Ciudad de México,
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Ciudad de México | [fb](https://www.facebook.com/people/Proyecto-Migala-CDMX/100081501525185/) | [ig](https://www.instagram.com/proyectomigalacdmx/) | [yt](https://www.youtube.com/@ProyectoMigalaCDMX) | [tk](https://www.tiktok.com/@proyectomigalacdmx) | [tw](https://twitter.com/CdmxMigala) | Sí | [SerchHouse](https://t.me/SerchHouse) | 19/01/2024 |
 | Guerrero |  | [ig](https://www.instagram.com/migala.guerrero) |  |  |  | Sí | [mirit23](https://t.me/mirit23) | 19/01/2024 |
-| Hidalgo |  |  |  |  |  | No |  | 19/01/2024 |
+| Hidalgo |  |  |  |  |  | Sí |  | 21/01/2024 |
 | Morelos |  |  |  |  |  | Sí | [Brandon_Jansen](https://t.me/Brandon_Jansen)| 19/01/2024 |
 | Puebla |  |  |  |  |  | Sí | Pablitobot | 19/01/2024 |
 | Tlaxcala |  |  |  |  |  | Sí |  | 19/01/2024 |
@@ -75,6 +86,13 @@ La cuarta circunscripción está compuesta por los estados de Ciudad de México,
 #### Circunscripción 5
 
 La quinta circunscripción está compuesta por los estados de Colima, Estado de México, Michoacán y Querétaro.
+
+| Comisiones | Facebook | Instagram | Youtube | Tiktok | Twitter/X | Activo | Representante | Ultima revisión |
+| ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| Colima |  |  |  |  |  | No |  | 22/01/2024 |
+| Estado de México |  |  |  |  |  | Sí |  | 22/01/2024 |
+| Michoacán | [fb](https://www.facebook.com/profile.php?id=100091805083462) | [ig](https://www.instagram.com/migalamichoacan) |  |  |  | Sí | [Nec13O](https://t.me/Nec13O) y [GuillermoTrFu](https://t.me/GuillermoTrFu) | 22/01/2024 |
+| Querétaro |  |  |  |  |  | Sí |  | 22/01/2024 |
 
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1PrdX1h6taRIeohJduBDDa_UWtC38x6A&ll=19.65776113414969%2C-101.6098412479208&z=7)
 [Grupo](https://t.me/+mBBU1505ANE0MWU5)
