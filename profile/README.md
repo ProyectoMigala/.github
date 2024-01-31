@@ -75,7 +75,7 @@ La cuarta circunscripción está compuesta por los estados de Ciudad de México,
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | Ciudad de México | [fb](https://www.facebook.com/people/Proyecto-Migala-CDMX/100081501525185/) | [ig](https://www.instagram.com/proyectomigalacdmx/) | [yt](https://www.youtube.com/@ProyectoMigalaCDMX) | [tk](https://www.tiktok.com/@proyectomigalacdmx) | [tw](https://twitter.com/CdmxMigala) | Sí | [SerchHouse](https://t.me/SerchHouse) | 19/01/2024 |
 | Guerrero |  | [ig](https://www.instagram.com/migala.guerrero) |  |  |  | Sí | [mirit23](https://t.me/mirit23) | 19/01/2024 |
-| Hidalgo |  |  |  |  |  | Sí |  | 21/01/2024 |
+| Hidalgo | [fb](https://www.facebook.com/MigalaHidalgo) |  |  |  | [tw](https://x.com/pm_hidalgo) | Sí |  | 21/01/2024 |
 | Morelos |  |  |  |  |  | Sí | [Brandon_Jansen](https://t.me/Brandon_Jansen)| 19/01/2024 |
 | Puebla |  |  |  |  |  | Sí | Pablitobot | 19/01/2024 |
 | Tlaxcala |  |  |  |  |  | Sí |  | 19/01/2024 |
