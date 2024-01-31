@@ -28,7 +28,7 @@ La primera circunscripción está compuesta por los estados de Baja California, 
 | Jalisco | [fb](https://www.facebook.com/MigalaJalisco) | [ig](https://www.instagram.com/migalajalisco/) | [yt](https://www.youtube.com/@proyectomigalajalisco) | [tk](https://www.tiktok.com/@migalajalisco) | [tw](https://twitter.com/migalajalisco) | [MigalaJalisco](https://linktr.ee/MigalaJalisco) | Sí | [PaulaSshun](https://t.me/PaulaSshun) y [GalloR96](https://t.me/GalloR96) | 22/01/2024 |
 | Nayarit |  |  |  |  |  |  | No |  | 22/01/2024 |
 | Sinaloa | [fb](https://www.facebook.com/proyectomigalasinaloa) | [ig](https://www.instagram.com/migalasinaloa) |  |  |  |  | Sí | [AleBarreraaa](https://t.me/AleBarreraaa) | 22/01/2024 |
-| Sonora |  |  |  |  |  |  | No |  | 22/01/2024 |
+| Sonora | [fb](https://www.facebook.com/ProyectoMigalaSonora) |  |  |  | [tw](https://x.com/MigalaSonora) |  | Sí |  | 31/01/2024 |
 
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1N2id_S-r1OxEfzDtAek9XfjonSEKZA0&ll=25.95804121121522%2C-108.60373767571274&z=7)
 [Grupo](https://t.me/+l7tR50yTtfFmYTEx)
