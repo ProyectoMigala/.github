@@ -92,7 +92,7 @@ La quinta circunscripción está compuesta por los estados de Colima, Estado de 
 | Colima |  |  |  |  |  | No |  | 22/01/2024 |
 | Estado de México | [fb](https://www.facebook.com/profile.php?id=100089301317986) | [ig](https://www.instagram.com/proyecto_migala_edomex) | [yt](https://www.youtube.com/@ProyectoMigalaEstadodeMexico) | [tk](https://www.tiktok.com/@migalaedomex) | [tw](https://twitter.com/PMEDOMEX) | Sí | [Maria Noriega](https://t.me/Mariv24ARLC) y [Jops](https://t.me/Joseph_Fuego) | 27/01/2024 |
 | Michoacán | [fb](https://www.facebook.com/profile.php?id=100091805083462) | [ig](https://www.instagram.com/migalamichoacan) |  |  |  | Sí | [Nec13O](https://t.me/Nec13O) y [GuillermoTrFu](https://t.me/GuillermoTrFu) | 22/01/2024 |
-| Querétaro |  |  |  |  |  | Sí |  | 22/01/2024 |
+| Querétaro |  | [ig](https://www.instagram.com/migala_qro/) |  |  |  | Sí |  | 22/01/2024 |
 
 [Mapa](https://www.google.com/maps/d/u/0/viewer?mid=1PrdX1h6taRIeohJduBDDa_UWtC38x6A&ll=19.65776113414969%2C-101.6098412479208&z=7)
 [Grupo](https://t.me/+mBBU1505ANE0MWU5)
