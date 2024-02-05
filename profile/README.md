@@ -1,5 +1,11 @@
 # Proyecto Migala
 
+## Informática
+
+| Página Web | Formulario de Registro |
+| ---------- | ---------------------- |
+| [Proyecto Migala](https://github.com/ProyectoMigala/proyectomigala.github.io) | [Registro - Alpha](https://github.com/ProyectoMigala/Formulario) |
+
 ## Directorio estatal por circunscripción
 
 | 1 | 2 | 3 | 4 | 5 |
