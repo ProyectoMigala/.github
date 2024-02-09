@@ -2,9 +2,15 @@
 
 ## Informática
 
-| Página Web | Formulario de Registro |
-| ---------- | ---------------------- |
-| [Proyecto Migala](https://github.com/ProyectoMigala/proyectomigala.github.io) | [Registro - Alpha](https://github.com/ProyectoMigala/Formulario) |
+| GitHub | Página Web | Formulario de Registro |
+| ---- | ---- | ---- |
+| [Archivo](https://github.com/ProyectoMigala/.github) | [Proyecto Migala](https://github.com/ProyectoMigala/proyectomigala.github.io) | [Registro - Alpha](https://github.com/ProyectoMigala/Formulario) |
+
+## Transparencia
+
+| Fase 1 | |
+| --- | --- |
+| [Avance](https://github.com/ProyectoMigala/.github/blob/main/documentos/TRANSPARENCIA.md) |  |
 
 ## Directorio estatal por circunscripción
 
