@@ -7,7 +7,7 @@
 
 Si duplicas la plantilla, ya debe incluir el código necesario para automatizar el respaldo y la limpieza de las minutas.
 
-![imagen](https://github.com/ProyectoMigala/.github/assets/32855529/93763ca5-eac0-4755-9798-2428ae3871b0)
+![pestaña minutas](https://github.com/ProyectoMigala/.github/assets/32855529/09304e59-8b3b-4035-af15-e225eba09d58)
 
 En la pestaña *Minutas* aparecen 3 opciones
 
@@ -21,15 +21,15 @@ En la pestaña `Extensiones` aparece la opción `Apps Script`, selecciona esa op
 
 Abrirá una ventana similar a lo que aparece en la imagen.
 
-![imagen](https://github.com/ProyectoMigala/.github/assets/32855529/d585c049-9b2c-4810-bea3-b8cfe7af854e)
+![apps script 1](https://github.com/ProyectoMigala/.github/assets/32855529/7ce6a91c-d101-4d18-9ccb-cb1936492177)
 
 Deben sustituir `<id de la carpeta>` con el id de la carpeta, como se muestra más adelante.
 
-![imagen](https://github.com/ProyectoMigala/.github/assets/32855529/fe11ad92-8db9-4fff-b684-6a69d38d5e22)
+![apps script 2](https://github.com/ProyectoMigala/.github/assets/32855529/9e95b01f-14f1-4242-a49b-211d95744e17)
 
 ### ¿Dónde encuentro el id de la carpeta?
 
-![imagen](https://github.com/ProyectoMigala/.github/assets/32855529/02fc0f02-cf15-42d5-97ff-71e6e8302933)
+![folder id](https://github.com/ProyectoMigala/.github/assets/32855529/1df54dce-f9ee-475e-85f3-cf079e97bb66)
 
 El `id` de las carpetas es el código que aparece al final de los enlaces cuando entras a una carpeta en Drive.
 
