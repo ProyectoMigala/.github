@@ -1,8 +1,10 @@
+// Minutas 1.0
+
 const ACTIVE_DOC = DocumentApp.getActiveDocument();
 const BODY = ACTIVE_DOC.getBody();
 const TABLES = BODY.getTables();
 
-const FOLDER_MINUTAS = '<Id de la carpeta donde se guardaran las minutas>';
+const FOLDER_MINUTAS = '<id de la carpeta>';
 const FILE_DATABASE = ''
 
 const TABLES_DATA = {
@@ -16,7 +18,7 @@ function onOpen() {
     .addItem('Limpiar', 'restart')
     .addItem('Guardar minuta', 'minuta')
     .addItem('Agregar grabación', 'setStreamLink')
-    .addItem('Prueba', 'updateDatabase')
+    // .addItem('Prueba', 'updateDatabase')
     .addToUi();
 
 }
@@ -41,6 +43,10 @@ function restart() {
       case 'Comienzo':
         console.log(tb.getCell(4, 0).getLinkUrl())
         tb.getCell(4, 0).setLinkUrl('')
+        break;
+      case 'NOTAS DE LOS PARTICIPANTES (“Personales”)':
+        tb.getRow(1).editAsText().replaceText("\.+", "*nombre*")
+        clean(tb.getRow(1), 3, tb.getNumRows());
         break;
     }
   });
