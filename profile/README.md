@@ -1,5 +1,11 @@
 # Proyecto Migala
 
+## Herramientas utiles
+
+| Minutas |
+| ---- |
+| [Guía](https://github.com/ProyectoMigala/.github/tree/main/documentos/secretarie)
+
 ## Informática
 
 | GitHub | Página Web | Formulario de Registro |
