@@ -8,9 +8,9 @@
 
 ## Informática
 
-| GitHub | Página Web | Formulario de Registro |
-| ---- | ---- | ---- |
-| [Archivo](https://github.com/ProyectoMigala/.github) | [Proyecto Migala](https://github.com/ProyectoMigala/proyectomigala.github.io) | [Registro - Alpha](https://github.com/ProyectoMigala/Formulario) |
+| GitHub | Página Web | Formulario de Registro | Proyectos de la Comunidad |
+| ---- | ---- | ---- | ---- |
+| [Archivo](https://github.com/ProyectoMigala/.github) | [Proyecto Migala](https://github.com/ProyectoMigala/proyectomigala.github.io) | [Registro - Alpha](https://github.com/ProyectoMigala/Formulario) | [MigalaSoft](https://github.com/ProyectoMigala/MigalaSoft) |
 
 ## Transparencia
 
